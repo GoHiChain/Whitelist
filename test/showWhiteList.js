@@ -1,8 +1,14 @@
-//var math = require("math");
+
+
+/* -----------------------------
+Gohichain 
+
+gohichain@gmail.com
+github@gohichain.com
+----------------------------- */
 
 var WL = artifacts.require("./WhiteList.sol");
 
-//console.log("Test javascript, whitelist");
 
 contract('WhiteList', function(accounts) {
     let instance
