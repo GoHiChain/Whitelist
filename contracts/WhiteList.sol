@@ -1,5 +1,11 @@
 pragma solidity ^0.4.17;
 
+/* -----------------------------
+Gohichain 
+gohichain@gmail.com
+github@gohichain.com
+----------------------------- */
+
 
 import "./Ownable.sol";
 

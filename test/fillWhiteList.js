@@ -1,4 +1,11 @@
-//var math = require("math");
+
+/* -----------------------------
+Gohichain 
+
+gohichain@gmail.com
+github@gohichain.com
+----------------------------- */
+
 
 function showWL(instance,accounts) {
     var i = -1;
