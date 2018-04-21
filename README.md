@@ -39,7 +39,7 @@ __NOTE__: I recommend testing with a fixed passphrase. I find valuable that the 
 Cloning the repo and deploying once
 
 ```sh
-git clone git@github.com:hidalgocespedes/Whitelist.git
+git clone https://github.com/GoHiChain/Whitelist.git
 cd Whitelist 
 truffle compile   //migrate will also compile if you miss this step
 ```
