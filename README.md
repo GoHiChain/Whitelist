@@ -41,7 +41,7 @@ Cloning the repo and deploying once
 ```sh
 git clone https://github.com/GoHiChain/Whitelist.git
 cd Whitelist 
-truffle compile   //migrate will also compile if you miss this step
+truffle compile   //migrate will also compile if you needed
 ```
 
 The deploy will be done over the testnet you select. Saying nothing, it will be done over the development one:
