@@ -4,6 +4,8 @@ This is an example of a Whitelist smart contract on Ethereum. We have packaged i
 
 As a kind of disclaimer, here you have some version info in case you have problems replaying any recipe.
 
+Node will be 8.x or superior
+
 ```
 # truffle --version
 Truffle v4.1.3 - a development framework for Ethereum
@@ -20,8 +22,6 @@ My current **solc** compiler version is:
 [...]
 
 ```
-Node will be 8.x or superior
-
 
 ## Getting started
 
