@@ -20,6 +20,7 @@ My current **solc** compiler version is:
 [...]
 
 ```
+NodeJs, will be 8.x or superior
 
 
 ## Getting started
